@@ -1,0 +1,4 @@
+Name,Email
+John Doe, jdoe@contoso.local
+Ama Jones, ajones@contoso.local
+Mario Ninja, mninja@contoso.local

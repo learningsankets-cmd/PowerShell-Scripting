@@ -1,0 +1,1 @@
+﻿Write-Output 'hello there! from test script'
